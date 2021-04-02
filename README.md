@@ -44,7 +44,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 |:------------------------------|:----------------------------|:------------------------------|
 | Atoms                         | :fried_shrimp:              | `:fried_shrimp:`              |
 | Molecules                     | :rice_ball:                 | `:rice_ball:`                 |
-| Organisms                     | :oden:                      | `:oden:`                      |
+| Organisms                     | :sushi:                     | `:sushi:`                      |
 | Templates                     | :rice:                      | `:rice:`                      |
 | Pages                         | :bento:                     | `:bento:`                     |
 
